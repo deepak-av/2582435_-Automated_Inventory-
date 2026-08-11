@@ -1,0 +1,7 @@
+ultralytics
+opencv-python
+easyocr
+ollama
+streamlit
+pydantic
+requests

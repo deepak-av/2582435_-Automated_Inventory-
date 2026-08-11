@@ -1,0 +1,7 @@
+{
+  "items": [
+    {"sku": "pen_blue", "bbox": [100, 150, 40, 80]},
+    {"sku": "calculator_basic", "bbox": [200, 150, 60, 90]},
+    {"sku": "notebook_a5", "bbox": [300, 150, 70, 100]}
+  ]
+}
